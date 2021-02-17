@@ -8,10 +8,10 @@ const ConnectEvent = 1,
 
 module.exports = class StreamlabsOBSClient {
 
-	token;
-	scenes;
-	sceneIds;
-	startTimer;
+// 	token;
+// 	scenes;
+// 	sceneIds;
+// 	startTimer;
 
 	constructor(opts) {
 		console.info("Constructing ...")
